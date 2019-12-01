@@ -1,0 +1,6 @@
+Chapter 3
+Modularity, Objects and State.
+
+In this Chapter I learned how to encapsulate data using function in JavaScript.
+Not to expose the member variable that accessing inside your function.
+Create a pure function that always doesn't modify the outside state.

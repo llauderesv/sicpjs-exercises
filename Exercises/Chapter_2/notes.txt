@@ -1,0 +1,6 @@
+Chapter 2
+Data Abstraction
+
+In this chapter I learned not to use primitive types in JavaScript.
+You can build your own primitive data-types, using function only. Using the idea of Alonzo Church
+Lambda Calculus.

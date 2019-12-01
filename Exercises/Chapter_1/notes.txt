@@ -1,0 +1,5 @@
+Chapter 1
+Recursion vs Iterative Process
+
+In this chapter, I learned how to properly used the recursive process vs iterative process.
+Knowing this two concept gives you the idea when not to use recursive process, since recursive process gives computer process grows more O(n). Compared to Iterative process. It's a constant time the only thing you need to do is to create a variable that holds the current value of the iteration to keep track O(1).
